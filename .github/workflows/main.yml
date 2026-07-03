@@ -1,4 +1,4 @@
- .github/workflows/main.yml
+.github/workflows/build-apk.yml
 name: Build QuickSchool Android Agent APK
 
 on:
