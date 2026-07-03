@@ -1,0 +1,15 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/qs_cyan</item>
+    </style>
+
+    <style name="PlayerTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowKeepScreenOn">true</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>
