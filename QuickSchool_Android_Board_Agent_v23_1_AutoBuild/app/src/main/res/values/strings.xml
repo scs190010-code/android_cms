@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuickSchool Board Agent</string>
+    <string name="agent_channel_name">QuickSchool Agent</string>
+    <string name="device_admin_label">QuickSchool Device Admin</string>
+    <string name="device_admin_description">QuickSchool 학교 전자칠판 키오스크/긴급송출 관리</string>
+</resources>

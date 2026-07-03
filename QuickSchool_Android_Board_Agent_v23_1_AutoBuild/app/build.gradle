@@ -1,0 +1,24 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'kr.co.quickschool.agent'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'kr.co.quickschool.agent'
+        minSdk 26
+        targetSdk 35
+        versionCode 231
+        versionName '23.1'
+    }
+
+    buildFeatures {
+        buildConfig true
+    }
+
+    defaultConfig {
+        buildConfigField "String", "DEFAULT_SERVER_URL", "\"http://192.168.0.133:4500\""
+    }
+}

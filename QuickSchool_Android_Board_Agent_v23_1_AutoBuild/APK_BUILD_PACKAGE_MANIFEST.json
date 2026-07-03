@@ -1,0 +1,10 @@
+{
+  "name": "QuickSchool Android Board Agent AutoBuild Package",
+  "version": "23.1",
+  "includesCompiledApk": false,
+  "whyNoCompiledApk": "No Android SDK/Gradle/aapt2/d8/apksigner in this runtime and internet access is blocked.",
+  "recommendedBuild": "GitHub Actions workflow included at .github/workflows/build-apk.yml",
+  "localBuildScript": "BUILD_APK_LOCAL_WINDOWS_EASY.bat",
+  "mainGuide": "ONE_CLICK_GITHUB_APK_BUILD_KR.md",
+  "createdAt": "2026-07-03 07:30:57"
+}

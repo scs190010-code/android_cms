@@ -1,0 +1,75 @@
+{
+  "name": "QuickSchool Android Board Agent",
+  "version": "23.1",
+  "package": "kr.co.quickschool.agent",
+  "compileSdk": 35,
+  "minSdk": 26,
+  "targetSdk": 35,
+  "createdAt": "2026-07-03 06:50:14",
+  "compiledApkIncluded": false,
+  "reasonCompiledApkNotIncluded": "This execution environment has Java but no Android SDK, Gradle, sdkmanager, or adb. Source project is provided for Android Studio build.",
+  "javaChecks": {
+    "QuickSchoolApp.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 240
+    },
+    "AgentLog.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 357
+    },
+    "AppConfig.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 2182
+    },
+    "UriUtil.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 280
+    },
+    "SettingsActivity.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 4885
+    },
+    "PlayerActivity.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 2930
+    },
+    "QuickSchoolAgentService.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 5345
+    },
+    "OverlayController.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 6636
+    },
+    "QuickSchoolClient.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 4010
+    },
+    "BootReceiver.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 280
+    },
+    "QuickSchoolDeviceAdminReceiver.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 157
+    },
+    "KioskController.java": {
+      "has_package": true,
+      "brace_balance": true,
+      "size": 1304
+    }
+  },
+  "manifestOk": true,
+  "gradleOk": true
+}
